@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1EE5490A-76F2-4FF1-A504-153C990951FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WaterProject/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="WaterProject/Views/Shared/_Layout.cshtml" Line="13" Column="11" />
+      <File FileName="WaterProject/Views/Home/Index.cshtml" Line="20" Column="7" />
+      <File FileName="WaterProject/Models/Project.cs" Line="16" Column="6" />
+      <File FileName="WaterProject/appsettings.json" />
+      <File FileName="WaterProject/Models/CharityDBContext.cs" Line="12" Column="1" />
+      <File FileName="WaterProject/Startup.cs" />
+      <File FileName="WaterProject/Models/ICharityRepository.cs" Line="9" Column="6" />
+      <File FileName="WaterProject/Models/EFCharityRepository.cs" Line="14" Column="66" />
+      <File FileName="WaterProject/Models/SeedData.cs" Line="43" Column="39" />
+      <File FileName="WaterProject/Controllers/HomeController.cs" Line="26" Column="45" />
+      <File FileName="WaterProject/Models/ErrorViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WaterProject" expanded="True">
+            <Node name="WaterProject" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WaterProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
